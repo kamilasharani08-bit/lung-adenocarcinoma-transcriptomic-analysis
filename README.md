@@ -118,7 +118,7 @@ The heatmap highlights the expression patterns of the **top 50 most significant 
 
 #### Gene Ontology Enrichment (Upregulated Genes)
 
-![GO Up](figures/Gene%20Ontology%20\(GO\)%20enrichment%20analysis%20of%20up-regulated%20genes.png)
+![GO Up](figures/GO%20up-regulated.png)
 
 Upregulated genes are significantly enriched in biological processes associated with **cell proliferation and tumor progression**.
 
@@ -126,7 +126,7 @@ Upregulated genes are significantly enriched in biological processes associated 
 
 #### Gene Ontology Enrichment (Downregulated Genes)
 
-![GO Down](figures/Gene%20Ontology%20\(GO\)%20enrichment%20analysis%20of%20down-regulated%20genes.png)
+![GO Down](figures/GO%20down-regulated.png)
 
 Downregulated genes are associated with processes related to **cell structure and tissue organization**.
 
